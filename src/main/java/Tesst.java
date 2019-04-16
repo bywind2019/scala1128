@@ -14,6 +14,8 @@ public class Tesst {
 }
 
 class A {
+
+
     public int a = 10;
 
     public int getA() {
