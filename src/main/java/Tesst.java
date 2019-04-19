@@ -10,11 +10,11 @@ public class Tesst {
         System.out.println(a.a); // 10
 //        System.out.println(b.getA());
 //        System.out.println(a.getA());
+
     }
 }
 
 class A {
-
 
     public int a = 10;
 

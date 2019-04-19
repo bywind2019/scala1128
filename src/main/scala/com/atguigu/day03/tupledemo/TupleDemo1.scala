@@ -16,7 +16,6 @@ object TupleDemo1 {
         }
         
         var t2: (Int, (Int, String)) = (10, (20, "abc"))
-        
     }
     
     def foo() = {

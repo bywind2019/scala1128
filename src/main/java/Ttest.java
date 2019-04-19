@@ -3,6 +3,7 @@
  * @Date 2019-04-17 15:38
  */
 public class Ttest {
+
     public static void main(String[] args) {
 
         final int a = 10;
@@ -19,5 +20,16 @@ public class Ttest {
 
             }
         }.start();
+
+
+
+    }
+
+    public static int foo(){
+        if(true){
+            return 1;
+        }else{
+            throw new RuntimeException();
+        }
     }
 }

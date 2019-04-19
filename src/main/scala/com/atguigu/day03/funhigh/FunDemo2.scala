@@ -14,6 +14,8 @@ object FunDemo2 {
         foo((a, b) => a + b)  // 省略类型
         foo(_ + _)  // 省略类型
         
+        
+        
     }
     def foo1(f: Int => Int) ={
     
